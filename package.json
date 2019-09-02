@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "qs": "1.2.0",
-    "xml2js": "0.4.0",
+    "xml2js": "courtneycouch/node-xml2js#old",
     "yaml": "0.2.3",
     "iconv-lite": "0.2.11"
   },
